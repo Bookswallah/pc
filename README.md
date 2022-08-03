@@ -77,6 +77,12 @@ The following environmental variables are required to deploy the application...
 • `login` The email of the user (Gmail only)<br>
 • `password` The password of the user
 
-# Credits
-• [`Anony`](https://github.com/anonyindian) The bot idea was his.<br>
-• [`Akash`](https://github.com/BLUE-DEVIL1134) The bot was built by him.
+ 
+
+
+
+
+#deploy 
+
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Bookswallah/pc"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-yellow?style=for-the-badge&logo=heroku" width="577" height="77.77"/></a></p>
